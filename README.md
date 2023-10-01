@@ -11,3 +11,22 @@ This phenomenon is repeated constantly and helps to maintain the balance of the 
 such that when the bucket is filled with water, it falls in full force with gravity and the material below will be smashed.
 
 With the IoT Based Pounder model, which uses the seesaw mechanism and IoT technology, this project saves human efforts and works with minimum energy making it energy-efficient.
+
+Advantage:
+
+The IoT based pounding machines can crush things in a very effective way, thanks to their advanced technology. By leveraging sensors and analytics, 
+the machines can optimise the crushing process, delivering consistent and high-quality results. This efficiency can help to save time, money, and 
+resources, making it a valuable investment for various industries.
+
+The IoT technology used in the machine allows for remote control from anywhere in the world, making it a convenient and user-friendly option. 
+This feature enables users to monitor and control the pounding process from their fingertips, ensuring that the process is running smoothly 
+and without interruption.
+
+The energy efficiency of the IoT-based pounding machines is significantly higher than traditional pounding machines. This higher efficiency means that 
+the machines consume less energy, resulting in a lower cost of operation. This cost-effectiveness can help to save money in the long run, making it an 
+attractive option for businesses and individuals alike.
+
+The IoT-based pounding machines can be customised to meet specific needs and requirements. With advanced analytics and sensors, the machines can be 
+adjusted to optimise performance and efficiency for specific applications. This customization can help to improve the quality and consistency of the 
+pounding process, resulting in better overall outcomes.
+
